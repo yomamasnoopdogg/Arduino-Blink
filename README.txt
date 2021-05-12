@@ -1,0 +1,1 @@
+Tænder og slukker porte på Arduino med et delay der er defineret med en funktion (delayLoop).
