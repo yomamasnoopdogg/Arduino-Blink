@@ -1,1 +1,2 @@
-Tænder og slukker porte på Arduino med et delay der er defineret med en funktion (delayLoop).
+Virker på samme måde som VER1, men denne gang kan blinkene loopes hvor end mange gange man ønsker.
+De enkelte længder af tid på blinkene kan også bare forlænges, så længde delayLoop() fjernes fra enden af de forskellige blink funktioner. I så fald, bliver længden hvor end meget man ganger den oprindelige delayLoop() med.
